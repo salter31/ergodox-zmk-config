@@ -16,8 +16,7 @@
     &kp LEFT_SHIFT  &kp Z      &kp X      &kp C      &kp V      &kp B      &kp LEFT_GUI    &kp MINUS    &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL       &kp GRAV   &kp LALT   &kp LARW   &kp RARW                                                      &kp UARW   &kp DARW   &kp LBKT   &kp RBKT   &kp EQUAL
                                                                 &kp TAB    &kp KP_NUMLOCK  &mo 1        &kp INS
-                                                                           &kp PGUP        &kp PGUP
-                                                     &kp SPC    &kp SPC                                 &kp LSFT   &kp RET
+                                                        &kp SPC &kp SPC    &kp PGUP        &kp PGUP     &kp LSFT   &kp RET
                                                                            &kp DEL         &kp PGDN
                         >;
                 };
